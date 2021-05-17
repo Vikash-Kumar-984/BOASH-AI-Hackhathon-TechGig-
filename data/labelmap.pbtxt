@@ -1,0 +1,16 @@
+item {
+  id:1
+  name:'Furnitures'
+}
+item {
+  id:2
+  name:'Doors'
+}
+item {
+  id:3
+  name:'garments'
+}
+item {
+  id:4
+  name:'cables'
+}
