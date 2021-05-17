@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_1620622918785.jpg</filename>
+	<path>C:\Object_detection\models-master\research\object_detection\images\train\IMG_1620622918785.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Doors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>134</ymin>
+			<xmax>508</xmax>
+			<ymax>638</ymax>
+		</bndbox>
+	</object>
+</annotation>
