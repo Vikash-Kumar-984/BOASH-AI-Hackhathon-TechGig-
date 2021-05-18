@@ -1,4 +1,4 @@
-# BOASH-AI-Hackhathon-TechGig-
+# BOASH-AI-Hackhathon-Working-Model
 
 * The AI developed  model should be capable of negotiating obstacles that includes following objects with cleaning robots Point Of View (POV).
 
